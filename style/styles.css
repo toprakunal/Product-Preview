@@ -17,9 +17,11 @@ body{
 
 
 .container{
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    
     
     
 }
@@ -30,7 +32,7 @@ body{
     width: 36rem;
     background-color: var(--White);
     border-radius: 0.5rem;
-    margin-top: 15rem;    
+        
 }
 
 
